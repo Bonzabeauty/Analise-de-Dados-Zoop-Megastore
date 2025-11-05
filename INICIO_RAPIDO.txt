@@ -1,0 +1,143 @@
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    ANÁLISE BLACK FRIDAY - ZOOP MEGASTORE                 ║
+║                          GUIA DE INÍCIO RÁPIDO                           ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+📦 ARQUIVOS DO PROJETO
+══════════════════════════════════════════════════════════════════════════
+
+📄 ARQUIVOS SQL (Executar nesta ordem):
+   1. 01_schema.sql              → Cria estrutura do banco de dados
+   2. 02_dados_exemplo.sql       → Carrega dados de exemplo
+   3. 03_analises_black_friday.sql → Queries de análise (30+ queries)
+   4. 04_questionamentos_negocios.sql → 15 questões de negócio
+
+📚 DOCUMENTAÇÃO:
+   • README.md                   → Visão geral do projeto
+   • GUIA_EXECUCAO.md           → Como executar e interpretar
+   • RESUMO_PROJETO.md          → Resumo executivo
+   • EXEMPLOS_RESULTADOS.md     → Exemplos de saída esperada
+
+══════════════════════════════════════════════════════════════════════════
+🚀 INÍCIO RÁPIDO - 3 PASSOS
+══════════════════════════════════════════════════════════════════════════
+
+1️⃣  CRIAR BANCO DE DADOS
+   mysql -u root -p < 01_schema.sql
+
+2️⃣  CARREGAR DADOS
+   mysql -u root -p < 02_dados_exemplo.sql
+
+3️⃣  EXECUTAR ANÁLISES
+   mysql -u root -p zoop_megastore < 03_analises_black_friday.sql
+
+══════════════════════════════════════════════════════════════════════════
+📊 O QUE O PROJETO ANALISA
+══════════════════════════════════════════════════════════════════════════
+
+✓ Comparação Black Friday vs Período Normal
+✓ Vendas por dia e horário
+✓ Top produtos e categorias
+✓ Comportamento dos clientes
+✓ Formas de pagamento
+✓ ROI e efetividade de descontos
+✓ Distribuição geográfica
+✓ Análise de cesta de compras
+✓ Sazonalidade
+
+══════════════════════════════════════════════════════════════════════════
+📈 DADOS INCLUÍDOS
+══════════════════════════════════════════════════════════════════════════
+
+• 8 Categorias de produtos
+• 28 Produtos com preços normais e Black Friday
+• 15 Clientes de vários estados do Brasil
+• 30 Vendas (20 Black Friday + 10 período normal)
+• Período: Outubro a Dezembro 2023
+• Black Friday: 24-27 Novembro 2023
+
+══════════════════════════════════════════════════════════════════════════
+💡 PRINCIPAIS ANÁLISES DISPONÍVEIS
+══════════════════════════════════════════════════════════════════════════
+
+1. TENDÊNCIAS E COMPARAÇÕES
+   • Comparação de vendas por período
+   • Análise diária da Black Friday
+   • Horários de pico
+
+2. PRODUTOS E CATEGORIAS
+   • Top 10 produtos mais vendidos
+   • Performance por categoria
+   • Produtos com maior receita
+
+3. CLIENTES
+   • Maiores compradores
+   • Distribuição por estado
+   • Taxa de conversão
+
+4. PAGAMENTOS
+   • Preferências de forma de pagamento
+   • Valor médio por método
+
+5. DESCONTOS E LUCRATIVIDADE
+   • ROI da Black Friday
+   • Impacto dos descontos
+   • Análise por categoria
+
+6. SAZONALIDADE
+   • Comparação mensal
+   • Tendências temporais
+
+7. ANÁLISES AVANÇADAS
+   • Correlação desconto x volume
+   • Análise de cesta
+   • Clientes exclusivos da BF
+
+8. DASHBOARD EXECUTIVO
+   • KPIs principais
+   • Resumo completo
+
+══════════════════════════════════════════════════════════════════════════
+🎯 PARA QUEM É ESTE PROJETO
+══════════════════════════════════════════════════════════════════════════
+
+✓ Gestores que precisam tomar decisões baseadas em dados
+✓ Analistas de dados em empresas de varejo
+✓ Profissionais de marketing e e-commerce
+✓ Estudantes de análise de dados e SQL
+✓ Empresas planejando campanhas de Black Friday
+
+══════════════════════════════════════════════════════════════════════════
+📞 PRÓXIMOS PASSOS
+══════════════════════════════════════════════════════════════════════════
+
+1. Leia o README.md para entender o projeto
+2. Siga o GUIA_EXECUCAO.md para executar
+3. Consulte EXEMPLOS_RESULTADOS.md para interpretar
+4. Adapte as queries para seus dados reais
+5. Crie visualizações no Power BI/Tableau
+
+══════════════════════════════════════════════════════════════════════════
+✨ CARACTERÍSTICAS DO PROJETO
+══════════════════════════════════════════════════════════════════════════
+
+✓ Completo: Schema + Dados + Análises + Documentação
+✓ Pronto para uso: Executar e obter resultados imediatos
+✓ Bem documentado: Cada query explicada
+✓ Escalável: Fácil adaptar para seus dados
+✓ Didático: Código limpo e comentado
+✓ Prático: Queries otimizadas e testadas
+
+══════════════════════════════════════════════════════════════════════════
+
+🎓 LEMBRE-SE: Este é um framework completo de análise. Você pode:
+   • Usar os dados de exemplo para aprender
+   • Substituir por seus dados reais
+   • Modificar queries conforme sua necessidade
+   • Expandir com novas análises
+
+💼 TECNOLOGIA: MySQL 5.7+
+📅 ÚLTIMA ATUALIZAÇÃO: Novembro 2024
+⭐ STATUS: PRODUÇÃO - PRONTO PARA USO
+
+══════════════════════════════════════════════════════════════════════════
