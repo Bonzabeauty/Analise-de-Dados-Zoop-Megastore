@@ -1,0 +1,10 @@
+# SQL files
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# Documentation
+*.md linguist-documentation=true
+*.txt linguist-documentation=true
+
+# Exclude from language statistics
+.github/* linguist-vendored
